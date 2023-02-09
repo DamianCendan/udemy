@@ -88,5 +88,14 @@
         }
       ]
     }
-  }
+  },
+  "customTemplates": [
+    {
+      "name": "full-width-page",
+      "title": "Full Width Page",
+      "postTypes": [
+        "page"
+      ]
+    }
+  ]
 }
